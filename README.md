@@ -1,7 +1,13 @@
-Trade-Data-vs-Market-Data
-Project done for Ahool Capital trade firm.
+Trade-Data-vs-Market-Data - Analytics tool
 
-This program compares several complicated factors between the firm's trade prices and the market value of a specific cryptocurrency. It allows for the input of any market data and trade log CSV file to be graphed in two possible visually comprehensible formats. 
+This project was done for Ahool Capital - a cryptocurrency prop trading firm.
+
+This program analyzes firms alogoritmic trade prints against market prices of a specific cryptocurrency. 
+It allows for the input of any market data and trade log as CSV file to be graphed in two possible visually comprehensible formats. 
+
+1. It overlaps tarde events with market data bid/ask prices during the day
+2. It provides market bid/ask price vs trade price to determine relative level of trade price
+
 
 The following image links are two sample graphs of either format. 
 
