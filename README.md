@@ -6,4 +6,5 @@ This program compares several complicated factors between the firm's trade price
 The following image links are two sample graphs of either format. 
 
 https://github.com/OmNaik17/Trade-Data-vs-Market-Data/blob/main/BidAsk-vs-Trade-Price.png
+
 https://github.com/OmNaik17/Trade-Data-vs-Market-Data/blob/main/Market-vs-Trade-Prints.png
