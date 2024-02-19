@@ -1,6 +1,6 @@
 Trade-Data-vs-Market-Data - Analytics tool
 
-This project was done for Ahool Capital - a cryptocurrency trading firm.
+This project was done for Celerix Technology - a cryptocurrency trading firm.
 
 This program analyzes the firm's algorithmic trade prints against market prices of a specific cryptocurrency. It allows for the input of any market data and trade log as CSV files to be graphed in two possible visually comprehensible formats.
 
